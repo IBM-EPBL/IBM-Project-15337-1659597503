@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
   <br/>
    <h1>University Admit Eligibility Predictor</h1>
-   <h3>Team Members: Eswaramoorty K, Krishnan S, Rohith S, Vishnu Vasan R </h3>
+   <h3>Team Members: Ruthrakumar A, Kaviyarasan R, Nithish Kumar R, Vasanthakumar G</h3>
 </div>
 
 ### Abstract
